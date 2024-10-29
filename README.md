@@ -1,8 +1,22 @@
-# React + Vite
+# Lifetime Warranty
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, efficient app designed to help users track and manage lifetime warranties for their purchased products. This app allows users to view and filter warranty details, ensuring that warranty information is easily accessible when needed.
 
-Currently, two official plugins are available:
+## Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To run the app locally, follow these steps:
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/ethanhayden/lifetime-warranty.git
+cd lifetime-warranty
+
+# 2. Install dependencies
+npm install
+
+# 3. Start the dev server
+npm run dev
+
+# 4. Open the app
+# Visit http://localhost:5173 in your browser to view the app.
+```
